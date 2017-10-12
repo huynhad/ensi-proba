@@ -6,7 +6,7 @@
 
 * Déterminer la probabilité de l'événement $(N_E > k)$, pour tout $k \geq 1$. Quelle est la loi de $N_E$ ?
 
-###### Réponse : \(N_E\) etant le rang de première occurrence, cette variable suit une loi géométrique de paramètre \frac{1}{6}
+###### Réponse : <span class="math inline">\(N_E\)</span> etant le rang de première occurrence, cette variable suit une loi géométrique de paramètre \frac{1}{6}
 
 
 ##### Question 2
