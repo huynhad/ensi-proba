@@ -6,7 +6,7 @@
 
 * Déterminer la probabilité de l'événement $(N_E > k)$, pour tout $k \geq 1$. Quelle est la loi de $N_E$ ?
 
-###### Réponse : 
+###### Réponse : Ma réponse
 
 
 ##### Question 2
